@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Gomez-Dev/Gomez-Dev/blob/main/assets/banner.png?raw=true" width="100%" alt="José Fernando Gómez - Backend Developer">
-</p>
-
 <h1 align="center">¡Hola! 👋 Soy José Fernando Gómez</h1>
 
 <h3 align="center">Estudiante de Desarrollo Backend</h3>
