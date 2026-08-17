@@ -102,10 +102,3 @@ jofergoz92@gmail.com
 
 ---
 
-<div align="center">
-
-### 💬 Filosofía
-
-*"Cada proyecto representa una nueva oportunidad para aprender, mejorar y escribir un mejor código que el día anterior."*
-
-</div>
