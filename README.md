@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="José Fernando Gómez - Backend Developer">
+</p>
+
 <h1 align="center">¡Hola! 👋 Soy José Fernando Gómez</h1>
 
 <h3 align="center">Estudiante de Desarrollo Backend</h3>
